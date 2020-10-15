@@ -1350,13 +1350,14 @@ body {
     z-index: 2;
     position: relative;
     width: 387px;
+    margin-right: 90px;
   }
 
   .front-page-my-photo {
     position: absolute;
     width: 245px;
     z-index: 1;
-    right: -20px;
+    right: -65px;
     bottom: 370px;
   }
 
@@ -1401,6 +1402,7 @@ body {
   .front-page-my-name {
     margin-top: 0;
     z-index: 2;
+    text-align: left;
   }
 
   .experience-title {
