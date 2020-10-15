@@ -982,7 +982,7 @@ body {
   line-height: 150%;
   text-align: center;
   color: var(--txt-c-dark);
-  margin: 0 30px 15px 30px;
+  margin: 0 30px 0 30px;
   text-decoration: none;
 }
 
@@ -1535,7 +1535,7 @@ body {
   .about-img {
     width: 421px;
     height: 455px;
-    left: -35px;
+    left: -150px;
   }
 
   .callback-form-title {
