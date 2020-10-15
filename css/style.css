@@ -1124,7 +1124,7 @@ body {
     margin-bottom: 60px;
   }
 
-  .front-page-my-photo {
+  .nt-page-my-photo {
     width: 140px;
     margin-right: 35px;
     margin-bottom: 0;
@@ -1354,10 +1354,10 @@ body {
 
   .front-page-my-photo {
     position: absolute;
-    width: 256px;
+    width: 245px;
     z-index: 1;
-    right: -70px;
-    bottom: 330px;
+    right: -20px;
+    bottom: 370px;
   }
 
   .front-page-description {
